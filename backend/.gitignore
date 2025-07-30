@@ -1,0 +1,39 @@
+# Node modules
+/node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Logs
+logs
+*.log
+logs/*
+debug.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build / Output
+/dist
+/build
+/tmp
+
+# Coverage
+/coverage
+
+# IDE and Editor configs
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Docker data (if any volumes)
+docker-data/
